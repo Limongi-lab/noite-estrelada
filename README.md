@@ -1,7 +1,5 @@
 <img width="972" height="759" alt="image" src="https://github.com/user-attachments/assets/89c09a44-c3e5-484d-b012-2dd610a3bf7c" />
-- Python 3.10 ou superior
-- `pygame-ce`
-- `numpy`
+
 
   Para rodar:
   
